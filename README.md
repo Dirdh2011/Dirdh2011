@@ -35,7 +35,8 @@ I am a motivated MSc Artificial Intelligence Graduate with a robust skill set in
 
 ## 🚀 Projects
 ### [Facial Emotion Recognition System](https://huggingface.co/spaces/dirdh2366489/Facialemotionreco)
-![Facial Emotion Recognition](https://via.placeholder.com/600x200.png?text=Facial+Emotion+Recognition+System)
+![image](https://github.com/user-attachments/assets/1dcaea3d-6d7f-4416-9aab-eef76f9770d9)
+
 - Developed a deep learning-based facial emotion recognition system to classify emotions from video inputs.
 - Achieved **95% accuracy** in real-time video analysis by applying a smoothing algorithm.
 - Deployed the system via Gradio Interface for real-time emotion detection on Hugging Face Space.
@@ -44,7 +45,8 @@ I am a motivated MSc Artificial Intelligence Graduate with a robust skill set in
 ---
 
 ### [Student Exam Performance Prediction Using ML](https://github.com/Dirdh2011/Project1-)
-![Student Performance Prediction](https://via.placeholder.com/600x200.png?text=Student+Exam+Performance+Prediction)
+![student](https://github.com/user-attachments/assets/d9b1880f-80b9-4e50-b99f-54fddd6f768e)
+
 - Built a scalable system using modular programming principles for robust performance.
 - Developed a high-performing regression model for predicting student exam performance with an **adjusted R² score of 0.94**.
 - Created a user-friendly web application using Flask, enabling real-time predictions with a clean interface and responsive design.
@@ -53,7 +55,7 @@ I am a motivated MSc Artificial Intelligence Graduate with a robust skill set in
 ---
 
 ### [SMS Spam Detection with Custom NLP Library](https://github.com/Dirdh2011/ham-and-spam-)
-![SMS Spam Detection](https://via.placeholder.com/600x200.png?text=SMS+Spam+Detection)
+
 - Created a custom NLP library using NLTK for advanced text preprocessing, including cleaning, tokenization, stop word removal, and lemmatization.
 - Achieved **97% accuracy** in spam detection using a Random Forest Classifier with Word2Vec features.
 - Employed Average Word2Vec for improved computational efficiency on large datasets.
@@ -61,7 +63,8 @@ I am a motivated MSc Artificial Intelligence Graduate with a robust skill set in
 ---
 
 ### [Availing Telepresence for the Expeditious Retrieval of Datum](https://github.com/Dirdh2011/telepresences)
-![Telepresence System](https://via.placeholder.com/600x200.png?text=Telepresence+System)
+![image](https://github.com/user-attachments/assets/a8bce42e-02e1-4d46-baa0-18eb21aa5aa3)
+
 - Developed a prototype demonstrating Industry 4.0 concepts by integrating remote monitoring with Augmented Reality (AR).
 - Engineered seamless data flow from industrial sensors to cloud infrastructure, improving real-time decision-making.
 - Integrated PLC systems with Raspberry Pi for secure communication and visualized live data using Unity AR.
@@ -103,6 +106,6 @@ Relevant coursework: Control Systems, IoT, Data Processing, Digital Signal Proce
 ---
 
 ## 🌱 Lifelong Learning
-I am committed to continuous learning and professional development in artificial intelligence, data analysis, and machine learning technologies. Currently, I am enhancing my skills in **generative AI** to explore its applications in various domains. Feel free to reach out for collaboration or inquiries!
+I am committed to continuous learning and professional development in artificial intelligence, data analysis, and machine learning technologies. Currently, I am enhancing my skills in **generative AI** to explore its applications in various domains. 
 
 ---
