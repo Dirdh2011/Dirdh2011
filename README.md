@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Dirdh Patel
 
 ### 🎓 MSc Artificial Intelligence Graduate
-**University of Huddersfield, Leeds, United Kingdom**  
+**University of Huddersfield,United Kingdom**  
 
 ---
 
