@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Dirdh Patel
 
-### 🎓 MSc Artificial Intelligence Graduate
+### 🎓 Top Ranked MSc Artificial Intelligence Graduate(2023-24)
 **University of Huddersfield,United Kingdom**  
 
 ---
@@ -15,7 +15,15 @@
 ---
 
 ## 🧑‍💻 Summary
-I am a motivated MSc Artificial Intelligence Graduate with a robust skill set in machine learning, data analysis, and AI-driven solutions. Proficient in programming languages like Python, SQL, C++, MATLAB, and C#, I have extensive hands-on experience with Natural Language Processing, Computer Vision, Deep Learning, and Cloud Computing. I am recognized for my quick learning ability, problem-solving skills, and commitment to excellence. Currently, I am focused on enhancing my expertise in generative AI for future projects.
+As an MSc Artificial Intelligence graduate from the University of Huddersfield (2023-24), I’ve crafted solutions at the intersection of AI, machine learning, and data-driven technologies. With a focus on deep learning, computer vision, NLP, and Generative AI, I’ve developed real-world systems like a Facial Emotion Recognition tool that achieves 95% accuracy in real-time video analysis.
+
+In my journey, I’ve learned that AI is not just about success — it’s also about learning from failure. I’ve faced challenges such as system crashes during model training, but each setback only deepened my problem-solving abilities. I’ve always believed that every failure is an opportunity for growth, whether it's tweaking model architectures, optimizing data pipelines, or debugging code that didn’t run as expected. It was during these times that my resilience and creativity came into play, pushing me to keep iterating until success was achieved.
+
+In addition to my technical skills, I’ve embraced every opportunity to grow as a team player and communicator. My time at Sukhothai Restaurant and Amazon Fulfillment Center shaped my soft skills — customer interaction, collaboration, and adaptability under pressure — especially during Amazon’s Christmas peak season, where quick learning and agility were critical.
+
+I’m a 5⭐️ Python coder on HackerRank, always looking for new ways to simplify problems, optimize workflows, and bring efficiency to everything I do. My approach to challenges has always been rooted in innovation and sustainability, striving to create AI solutions that not only work but also make a lasting positive impact.
+
+Looking ahead, I’m excited to continue learning, exploring new technologies like AgenticAI, and applying my skills in dynamic, forward-thinking teams. Whether it's AI, data analytics, or full-stack development, I’m ready to make meaningful contributions and tackle new challenges with a creative mindset.
 
 ---
 
@@ -88,10 +96,6 @@ Relevant coursework: Control Systems, IoT, Data Processing, Digital Signal Proce
 ---
 
 ## 💼 Professional Experience
-### Data Analyst Intern 
-**Tech Pseudocodex, Gujarat** | May 2023 – August 2023
-- Extracted actionable insights on customer behavior and ad interaction using Python, increasing campaign effectiveness by **15%**.
-
 ### Research and Development Project Intern 
 **Servilink Systems Limited, Gujarat** | December 2022 – March 2023
 - Prototyped an AR system for real-time monitoring and communication in industrial settings, improving operational efficiency.
@@ -100,9 +104,10 @@ Relevant coursework: Control Systems, IoT, Data Processing, Digital Signal Proce
 
 ## 🍽️ Other Experience
 ### Food Attendant (Part-Time)
-**Sukhothai Restaurant, Leeds** | November 2023 – Present
+**Sukhothai Restaurant, Leeds** | November 2023 – October 2024
 - Enhanced customer interaction skills by efficiently managing orders and resolving issues in a fast-paced environment.
-
+### Warehouse Associate 
+**Amazon Fulfillment Technologies & Robotics,Leeds** | October 2024 - Present 
 ---
 
 ## 🌱 Lifelong Learning
