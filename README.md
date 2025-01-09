@@ -108,8 +108,11 @@ Relevant coursework: Control Systems, IoT, Data Processing, Digital Signal Proce
 - Enhanced customer interaction skills by efficiently managing orders and resolving issues in a fast-paced environment.
 ### Warehouse Associate 
 **Amazon Fulfillment Technologies & Robotics,Leeds** | October 2024 - Present 
+- Performed parcel quality checks and packing tasks, ensuring compliance with quality standards.
+- Collaborated with teams and occasionally took on team lead responsibilities to maintain workflow and 
+meet targets.
+- Adapted to diverse roles, maximizing productivity and maintaining high-quality standards
 ---
-
 ## 🌱 Lifelong Learning
 I am committed to continuous learning and professional development in artificial intelligence, data analysis, and machine learning technologies. Currently, I am enhancing my skills in **generative AI** to explore its applications in various domains. 
 
